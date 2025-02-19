@@ -1,0 +1,15 @@
+.infoBox{
+  text-align: center ;
+
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.infoBox h1{
+  font-size: 4rem;
+}
+  
